@@ -6,7 +6,7 @@ import ar.edu.utn.frba.dds.ejercicio_01.Rutina;
 public class Tonificar implements Motivacion {
     @Override
     public Rutina generarRutinaPara(Deportista deportista) {
-        //todo..
+        // todo..
         return null;
     }
 }
